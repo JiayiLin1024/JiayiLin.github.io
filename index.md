@@ -1,6 +1,7 @@
 # About Me
 
-<p>Jiayi Lin (林嘉怡)</p>
+**Jiayi Lin (林嘉怡)**  
+
 <p>Algorithm engineer</p>
 <p>Code Search and Understanding Group</p>
 <p>Research Center of AI Platform Technology</p>
