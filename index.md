@@ -34,16 +34,12 @@ Coming soon... -->
 
 # Education
 
-- **[2018.9-2021.6]** 
-
-  M.E. in **Wuhan University of Technology (Whut)** at Wuhan, Hubei Province. 
+- **[2018.9-2021.6]** M.E. in **Wuhan University of Technology (Whut)** at Wuhan, Hubei Province. 
 
   Supervisor: Prof. Chengming Zou
 
 
-- **[2014.9-2018.6]** 
-
-  B.E. in **Wuhan Institute of Technology (WIT)** at Wuhan, Hubei Province.
+- **[2014.9-2018.6]** B.E. in **Wuhan Institute of Technology (WIT)** at Wuhan, Hubei Province.
 
 
 # Work Experiences
