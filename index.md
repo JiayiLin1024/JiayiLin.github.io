@@ -15,15 +15,15 @@
 
 # Publication
 
-- **Survey of Code Search Based on Deep Learning** [pdf](https://arxiv.org/pdf/2305.05959.pdf)  
+- **Survey of Code Search Based on Deep Learning** [[pdf](https://arxiv.org/pdf/2305.05959.pdf)]  
 
-Yutao Xie, Jiayi Lin, Hande Dong, Lei Zhang, Zhonghai Wu  
+  Yutao Xie, **Jiayi Lin**, Hande Dong, Lei Zhang, Zhonghai Wu  
 
-ACM Transactions on Software Engineering and Methodology (TOSEM 2023, CCF-A)
+  ACM Transactions on Software Engineering and Methodology (**TOSEM 2023, CCF-A**)
 
-- **Retriever and Ranker Framework with Probabilistic Hard Negative Sampling for Code Search** [preprint](https://arxiv.org/pdf/2305.04508.pdf)  
+- **Retriever and Ranker Framework with Probabilistic Hard Negative Sampling for Code Search** [[preprint](https://arxiv.org/pdf/2305.04508.pdf)]  
 
-Hande Dong, Jiayi Lin, Yichong Leng, Jiawei Chen, Yutao Xie
+  Hande Dong, **Jiayi Lin**, Yichong Leng, Jiawei Chen, Yutao Xie
 
 
 <!-- # Open Source
@@ -35,25 +35,26 @@ Coming soon... -->
 
 - **[2018.9-2021.6]** 
 
-  M.E. in Wuhan University of Technology (Whut) at Wuhan, Hubei Province. 
+  M.E. in **Wuhan University of Technology (Whut)** at Wuhan, Hubei Province. 
 
   Supervisor: Prof. Chengming Zou
 
 
 - **[2014.9-2018.6]** 
 
-  B.E. in Wuhan Institute of Technology (WIT) at Wuhan, Hubei Province.
+  B.E. in **Wuhan Institute of Technology (WIT)** at Wuhan, Hubei Province.
 
 
 # Work Experiences
 
-- Algorithm Engineer, International Digital Economy Academy, 2021.07-today
-Working Area: code understanding and generation, pretrained language model, large language model
+- **Algorithm Engineer**, International Digital Economy Academy, 2021.07-today  
+
+  Working Area: code understanding and generation, pretrained language model, large language model
 
 
 # Intern Experiences
 
-- Research Intern in Visual privacy protection, Cloud Brain Intelligence Transportation Group, Pengcheng Lab, 2019.10~2020.01.
+- **Research Intern in Visual privacy protection**, Cloud Brain Intelligence Transportation Group, Pengcheng Lab, 2019.10~2020.01.
 
 
 <!-- # Academic Service
