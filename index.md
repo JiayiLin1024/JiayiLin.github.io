@@ -42,7 +42,9 @@ Coming soon... -->
 
 ## Intern Experiences
 
-- **Research Intern in Visual privacy protection**, Cloud Brain Intelligence Transportation Group, Pengcheng Lab, 2019.10~2020.01.
+- **Research Intern in Visual privacy protection**, Cloud Brain Intelligence Transportation Group, Pengcheng Lab, 2019.10~2020.01.  
+
+  Supervised by Prof. [Yue Yu](https://yuyue.github.io/) and Prof. [Long Lan](https://lan-long.github.io/index.html)
 
 
 
