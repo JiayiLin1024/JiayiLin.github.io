@@ -1,3 +1,3 @@
-# Yingwei Ma's HomePage
+# Jiayi Lin's HomePage
 
-[Yingwei Ma's HomePage](https://yingweima2022.github.io/) :v:
+[Jiayi Lin's HomePage](https://JiayiLin.github.io/) :v:
