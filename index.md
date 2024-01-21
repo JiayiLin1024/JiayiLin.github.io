@@ -8,7 +8,7 @@
 <p>International Digital Economy Academy</p>
 <p>Shenzhen, China</p>
 <p>Email: jiayilin1024@gmail.com</p>
-<!-- <a href="">Google Scholar</a>   <a href="">DBLP</a> -->
+<!-- [Google Scholar](https://scholar.google.com.hk/citations?user=YqBpkvIAAAAJ&hl=zh-CN)  [DBLP](https://dblp.org/pid/238/1997-4) -->
 
 <!-- ## News
 - **[<font color="#FF0000">2023.09</font>]** One paper has been accepted by [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem). -->
@@ -50,12 +50,12 @@ Coming soon... -->
 
 ## Education
 
-- **[2018.9-2021.6]** M.E. in **Wuhan University of Technology (Whut)** at Wuhan, Hubei Province. 
+- **[2018.9-2021.6]** M.E. in **Wuhan University of Technology (Whut)** at Wuhan, Hubei. 
 
   Supervisor: Prof. Chengming Zou
 
 
-- **[2014.9-2018.6]** B.E. in **Wuhan Institute of Technology (WIT)** at Wuhan, Hubei Province.
+- **[2014.9-2018.6]** B.E. in **Wuhan Institute of Technology (WIT)** at Wuhan, Hubei.
 
 
 <!-- ## Academic Service
