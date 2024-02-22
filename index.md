@@ -26,6 +26,10 @@
 
   Hande Dong, **Jiayi Lin**, Yichong Leng, Jiawei Chen, Yutao Xie
 
+- **Scaling Laws Behind Code Understanding Model** [[preprint](https://arxiv.org/pdf/2402.12813.pdf)]
+
+  **Jiayi Lin**, Hande Dong, Yutao Xie, Lei Zhang
+
 
 <!-- ## Open Source
 
